@@ -1,5 +1,8 @@
 # react-structure
-design test for  how to struicture components and routes and add libraries
+
+design test for how to struicture components and routes and add libraries.
+
+need to add creat react app
 
 ## site / app stucture
 
@@ -30,6 +33,7 @@ design test for  how to struicture components and routes and add libraries
 ```
 
 ## post format
+
 ```
 {
     "id": 0,
